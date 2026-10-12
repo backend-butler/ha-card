@@ -1,6 +1,6 @@
 # Butler quick card
 
-A dashboard launcher for [Backend Butler](https://github.com/backend-butler/ha-addon), the Claude agent app for Home Assistant, modelled on the ChatGPT and Grok home screen widgets. It never chats itself: a tap opens Butler, ready to type, take a photo, or talk.
+A dashboard launcher for [Backend Butler](https://github.com/backend-butler/ha-addon), the AI agent app for Home Assistant, modelled on the ChatGPT and Grok home screen widgets. It never chats itself: a tap opens Butler, ready to type, take a photo, or talk.
 
 **Needs the Backend Butler app.** The card finds Butler's sidebar panel on its own.
 
